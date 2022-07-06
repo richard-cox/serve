@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://harvester-0.3.0/./l10n/en-us.yaml"],"names":["doc","module","exports","length"],"mappings":"iLAAA,MAAMA,EAAM,GACZC,EAAOC,QAAUF,EAAIG,QAAU,EAAIH,EAAI,GAAKA","file":"harvester-0.3.0.umd.min.13.js","sourcesContent":["const doc = [];\nmodule.exports = doc.length <= 1 ? doc[0] : doc;"],"sourceRoot":""}
